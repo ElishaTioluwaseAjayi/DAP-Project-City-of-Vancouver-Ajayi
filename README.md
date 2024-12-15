@@ -34,10 +34,10 @@ The primary need of this project is to conduct a descriptive and Exploratory Ana
 * In this we have key features like the ‘Business Operators’, ‘Total Units’, ‘Total Outstanding Units’, ‘Street Number’,  ‘Street Name’ and other details.
 * The descriptive analysis is on “What is the percentage of number of available Rental  Business Operators in each Geo-areas of Vancouver?”.
 #### Dap Design
-![image 001](https://github.com/user-attachments/assets/a685bf44-47b3-41cf-ba08-f370fbf36158)<br>
+![image 001](https://github.com/user-attachments/assets/d1879058-aea6-4101-99d9-acd2ef78ef4f)<br>
 The above image displays the DAP design we are implementing for the descyptive analysis.
 #### Descriptive  Question for Analysis
-![image 000](https://github.com/user-attachments/assets/453178f7-43f4-4798-8e38-e613f1f775cf)<br>
+![image 000](https://github.com/user-attachments/assets/b934b96c-88f8-4368-a96c-a3dd40eecdb6)<br>
 The above images displays the descryptive analysis of our DAP model.
 #### Step 1: Data Ingestion
 This step explains about the Data ingestion into AWS Environment
@@ -52,10 +52,10 @@ This step explain the process of designing a ETL pipeline to transform raw data 
 * In this we have key features like the ‘Business Operators’, ‘Total Units’, ‘Total Outstanding Units’, ‘Street Number’,  ‘Street Name’ and other details.
 * The descriptive analysis is on “How many Business Operators operate in more than one geo location and how many units they manage?”.
 #### Dap Design
-![image 001](https://github.com/user-attachments/assets/a685bf44-47b3-41cf-ba08-f370fbf36158)<br>
+![image 001](https://github.com/user-attachments/assets/37c6e35b-8bde-4253-940d-11a24338d8dc)<br>
 The above image displays the DAP design we are implementing for the descyptive analysis.
 #### Descriptive  Question for Analysis
-![image 000-1](https://github.com/user-attachments/assets/f2b6ef1c-ed19-4860-8f4e-781095e0080f)<br>
+![image 000-1](https://github.com/user-attachments/assets/46233f28-2e6f-469b-b922-d2c60b71dfe7)<br>
 The above images displays the exploratory analysis of our DAP model.
 #### Step 1: Data Ingestion
 This step explains about the Data ingestion into AWS Environment
